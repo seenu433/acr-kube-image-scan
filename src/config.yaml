@@ -1,0 +1,7 @@
+{
+  "refreshSchedule": "{interval to refresh the vulnerabilities}",
+  "tenantId": "{tenant}",
+  "clientId": "{appId}",
+  "clientSecret": "{password}",
+  "subscriptionId": "{subscriptionId}"
+}
